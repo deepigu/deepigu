@@ -1,8 +1,22 @@
-## Hi there 👋
-# 💫 About Me:
-🔭 I’m currently working on JAGATH aQua<br>🌱 I’m currently learning React,Nodejs<br>👯 I’m looking to collaborate on Cake-wheata<br>👨‍💻 All of my projects are available at https://www.myprojectinc.com/<br>📝 I regularly write articles on https://scribblevers.blogspot.com/<br>📫 How to reach me deekarunakaran@gmail.com
+<head> </head> <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" rel="stylesheet"> </head>
+<h1 align="center">Hi 👋, I'm Deepika karunakaran</h1>
+<h3 align="center">I am currently pursuing a bachelor’s degree in BA ITEC at York University. I live in Oshawa, Canada for more than two years.</h3>
+- 🔭 I’m currently working on **JAGATH aQua website**
 
+- 🌱 I’m currently learning **React,Nodejs**
 
+- ☎️ Schedule a call
+
+- 👨‍💻 All of my projects are available at [myprojectinc.com](myprojectinc.com)
+
+- 📝 I regularly write articles on [https://www.blogger.com/blog/posts/6945350972429959622](https://www.blogger.com/blog/posts/6945350972429959622)
+
+- 📫 How to reach me **deekarunakaran@gmail.com**
+
+- 📄 Know about my experiences [myprojectinc.com](myprojectinc.com)
+
+- ⚡ Fun fact **I am curious to learn new things.**
+  
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/www.linkedin.com/in/dee-itpassion) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:deekarunakaran@gmail.com) 
 
