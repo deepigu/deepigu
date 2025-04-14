@@ -3,7 +3,7 @@
 <h3 align="center">I am currently pursuing a bachelor’s degree in BA ITEC at York University.</h3>
 - 🔭 I’m currently working on **JAGATH aQua website**
 
-- 🌱 I’m currently learning **React,Nodejs**
+- 🌱 I’m currently learning **Python,Nodejs**
 
 - ☎️ Schedule a call
 
