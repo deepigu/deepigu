@@ -1,7 +1,7 @@
 <head> </head> <link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css" rel="stylesheet"> </head>
 <h1 align="center">Hi 👋, I'm Deepika karunakaran</h1>
 <h3 align="center">I am currently pursuing a bachelor’s degree in BA ITEC at York University.</h3>
-- 🔭 I’m currently working on **JAGATH aQua website**
+- 🔭 I’m currently working on **Employee-system**
 
 - 🌱 I’m currently learning **Python,Nodejs**
 
